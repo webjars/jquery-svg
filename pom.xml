@@ -11,14 +11,14 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-svg</artifactId>
-    <version>1.4.6-SNAPSHOT</version>
+    <version>1.5.0-SNAPSHOT</version>
     <name>jQuery SVG</name>
     <description>WebJar for ${name}</description>
     <url>http://webjars.org</url>
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
-        <upstreamVersion>1.4.5</upstreamVersion>
+        <upstreamVersion>1.5.0</upstreamVersion>
         <upstreamFilename>jquery.svg.package-${upstreamVersion}.zip</upstreamFilename>
         <upstreamUrl>http://keith-wood.name/zip/</upstreamUrl>
         <destinationDir>${project.build.outputDirectory}/META-INF/resources/webjars/${project.artifactId}/${upstreamVersion}</destinationDir>
