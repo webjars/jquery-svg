@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>jquery-svg</artifactId>
-    <version>1.5.0-SNAPSHOT</version>
+    <version>1.5.0</version>
     <name>jQuery SVG</name>
     <description>WebJar for ${name}</description>
     <url>http://webjars.org</url>
@@ -34,7 +34,7 @@
         <url>http://github.com/webjars/jquery-svg</url>
         <connection>scm:git:https://github.com/webjars/jquery-svg.git</connection>
         <developerConnection>scm:git:https://github.com/webjars/jquery-svg.git</developerConnection>
-        <tag>HEAD</tag>
+        <tag>jquery-svg-1.5.0</tag>
     </scm>
 
     <developers>
